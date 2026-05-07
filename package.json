@@ -1,0 +1,13 @@
+{
+  "name": "payment-processing-system",
+  "version": "1.0.0",
+  "description": "Backend assignment: payment processing system with idempotency, retries, and webhook handling",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
